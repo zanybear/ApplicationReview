@@ -1,0 +1,15 @@
+C:\Users\geeth\source\repos\ApplicationReviewSolution\ApplicationReview\bin\Debug\net6.0\ApplicationReview.exe
+C:\Users\geeth\source\repos\ApplicationReviewSolution\ApplicationReview\bin\Debug\net6.0\ApplicationReview.deps.json
+C:\Users\geeth\source\repos\ApplicationReviewSolution\ApplicationReview\bin\Debug\net6.0\ApplicationReview.runtimeconfig.json
+C:\Users\geeth\source\repos\ApplicationReviewSolution\ApplicationReview\bin\Debug\net6.0\ApplicationReview.dll
+C:\Users\geeth\source\repos\ApplicationReviewSolution\ApplicationReview\bin\Debug\net6.0\ApplicationReview.pdb
+C:\Users\geeth\source\repos\ApplicationReviewSolution\ApplicationReview\obj\Debug\net6.0\ApplicationReview.csproj.AssemblyReference.cache
+C:\Users\geeth\source\repos\ApplicationReviewSolution\ApplicationReview\obj\Debug\net6.0\ApplicationReview.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geeth\source\repos\ApplicationReviewSolution\ApplicationReview\obj\Debug\net6.0\ApplicationReview.AssemblyInfoInputs.cache
+C:\Users\geeth\source\repos\ApplicationReviewSolution\ApplicationReview\obj\Debug\net6.0\ApplicationReview.AssemblyInfo.cs
+C:\Users\geeth\source\repos\ApplicationReviewSolution\ApplicationReview\obj\Debug\net6.0\ApplicationReview.csproj.CoreCompileInputs.cache
+C:\Users\geeth\source\repos\ApplicationReviewSolution\ApplicationReview\obj\Debug\net6.0\ApplicationReview.dll
+C:\Users\geeth\source\repos\ApplicationReviewSolution\ApplicationReview\obj\Debug\net6.0\refint\ApplicationReview.dll
+C:\Users\geeth\source\repos\ApplicationReviewSolution\ApplicationReview\obj\Debug\net6.0\ApplicationReview.pdb
+C:\Users\geeth\source\repos\ApplicationReviewSolution\ApplicationReview\obj\Debug\net6.0\ApplicationReview.genruntimeconfig.cache
+C:\Users\geeth\source\repos\ApplicationReviewSolution\ApplicationReview\obj\Debug\net6.0\ref\ApplicationReview.dll
