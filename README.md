@@ -1,3 +1,4 @@
+(*Note - find more info at ARProgrameDoc file)
 # Objective:
 Business Line objective is to create a program where they can verify or review online deposit applications. Also looking to have separate functionality for users with different roles.
 
